@@ -35,7 +35,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all necessary deps.\
+Installs all necessary deps.
 
 ### `npm start`
 
